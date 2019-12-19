@@ -18,8 +18,8 @@ terminationGracePeriodSeconds: 180
 
 # Solr image settings
 image:
-  repository: solr
-  tag: 8.3.1
+  repository: giovalentin/solr
+  tag: solr
   pullPolicy: Always
 
 # Solr pod liveness
