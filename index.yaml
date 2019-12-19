@@ -12,12 +12,13 @@ entries:
     digest: 7a5f71e59457b09772fc5fba7ab974ae0266120948811686f1c2d0d1eaafb4f6
     home: http://lucene.apache.org/solr/
     keywords:
-    - odn-solr
+    - solr
+    - odn
     maintainers:
     - email: giovanni.v@outdoornetwork.com
       name: Giovanni Valentin
     name: solr
     urls:
-    - solr-2.0.4.tgz
-    version: 2.0.4
+    - solr-2.2.2.tgz
+    version: 2.2.2
 generated: "2019-12-19T07:07:27.168681-05:00"
