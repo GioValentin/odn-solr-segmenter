@@ -1,18 +1,1092 @@
 apiVersion: v1
 entries:
+  admin-ui:
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-12-18T22:04:54.095971641Z"
+    description: A helm chart to install the admin-ui component
+    digest: cc699394f6f6206bac6ea7a769cca9e52e13b196144c3a11cdc816202fdc9049
+    keywords:
+    - fusion
+    - admin-ui
+    - admin
+    maintainers:
+    - email: dmitriy.lyner@lucidworks.com
+      name: Dmitriy Lyner
+    - email: graham.holt@lucidworks.com
+      name: Graham Holt
+    name: admin-ui
+    urls:
+    - https://charts.lucidworks.com/admin-ui-1.0.5.tgz
+    version: 1.0.5
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:06.681105232Z"
+    description: A helm chart to install the admin-ui component
+    digest: 85c8b83c2017f46699a243fb3668e8832c11eb6e003e3a168ac5fd431e4a4293
+    keywords:
+    - fusion
+    - admin-ui
+    - admin
+    maintainers:
+    - email: dmitriy.lyner@lucidworks.com
+      name: Dmitriy Lyner
+    - email: graham.holt@lucidworks.com
+      name: Graham Holt
+    name: admin-ui
+    urls:
+    - https://charts.lucidworks.com/admin-ui-1.0.3.tgz
+    version: 1.0.3
+  api-gateway:
+  - apiVersion: v1
+    appVersion: 5.1.0
+    created: "2019-12-18T22:04:55.269790159Z"
+    description: A helm chart to install the api-gateway component
+    digest: 310663020c0ddab770a59e63817faec6873e2831d7bf27eff06fe5f276a06efd
+    keywords:
+    - fusion
+    - api-gateway
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    - email: tim.potter@lucidworks.com
+      name: Timothy Potter
+    name: api-gateway
+    urls:
+    - https://charts.lucidworks.com/api-gateway-1.1.7.tgz
+    version: 1.1.7
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:22:11.067454446Z"
+    description: A helm chart to install the api-gateway component
+    digest: 2c46321a800f4423c14a1a01fc0f6d21e3029db6815041f6a4bd06c08e78fbaa
+    keywords:
+    - fusion
+    - api-gateway
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    - email: tim.potter@lucidworks.com
+      name: Timothy Potter
+    name: api-gateway
+    urls:
+    - https://charts.lucidworks.com/api-gateway-1.0.38.tgz
+    version: 1.0.38
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:08.324902792Z"
+    description: A helm chart to install the api-gateway component
+    digest: e8e246f38b5b490bbc6d2830b693c4b5b06a3faafa503915b0df3951eeb62e86
+    keywords:
+    - fusion
+    - api-gateway
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    - email: tim.potter@lucidworks.com
+      name: Timothy Potter
+    name: api-gateway
+    urls:
+    - https://charts.lucidworks.com/api-gateway-1.0.31.tgz
+    version: 1.0.31
+  auth-ui:
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-12-18T22:04:56.508609308Z"
+    description: A helm chart to install the auth-ui component
+    digest: 68c82ab9422547e68d04223efc22ea58aa0187300247f111309dfa005bd06fee
+    keywords:
+    - fusion
+    - auth-ui
+    - auth
+    maintainers:
+    - email: dmitriy.lyner@lucidworks.com
+      name: Dmitriy Lyner
+    - email: graham.holt@lucidworks.com
+      name: Graham Holt
+    name: auth-ui
+    urls:
+    - https://charts.lucidworks.com/auth-ui-1.0.7.tgz
+    version: 1.0.7
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:09.944177944Z"
+    description: A helm chart to install the auth-ui component
+    digest: 14ebc67892d007fb75d0a3c57d166784a7be8ef8aa50c67955473fe69236fd39
+    keywords:
+    - fusion
+    - auth-ui
+    - auth
+    maintainers:
+    - email: dmitriy.lyner@lucidworks.com
+      name: Dmitriy Lyner
+    - email: graham.holt@lucidworks.com
+      name: Graham Holt
+    name: auth-ui
+    urls:
+    - https://charts.lucidworks.com/auth-ui-1.0.4.tgz
+    version: 1.0.4
+  classic-rest-service:
+  - apiVersion: v1
+    appVersion: 5.0.2
+    created: "2019-12-18T22:04:57.788400769Z"
+    description: Lucidworks Fusion Connectors Service (classic)
+    digest: 65086f1248aa21248bad07d57fdf7bcd233b77f1d4bc9549fb72786ecba4875a
+    keywords:
+    - fusion
+    - connectors
+    - classic
+    - v1
+    maintainers:
+    - email: matt.mitchell@lucidworks.com
+      name: Matt Mitchell
+    - email: cesar.vera-bernal@lucidworks.com
+      name: Cesar Vera-Bernal
+    - email: christopher.bareja@lucidworks.com
+      name: Krzysztof Bareja
+    name: classic-rest-service
+    urls:
+    - https://charts.lucidworks.com/classic-rest-service-1.9.0.tgz
+    version: 1.9.0
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:22:13.514753199Z"
+    description: Lucidworks Fusion Connectors Service (classic)
+    digest: 6a30d668af754ec703316d4f1c1edeb3f7e9208381ec906145652afc9e72ecd7
+    keywords:
+    - fusion
+    - connectors
+    - classic
+    - v1
+    maintainers:
+    - email: matt.mitchell@lucidworks.com
+      name: Matt Mitchell
+    - email: cesar.vera-bernal@lucidworks.com
+      name: Cesar Vera-Bernal
+    - email: christopher.bareja@lucidworks.com
+      name: Krzysztof Bareja
+    name: classic-rest-service
+    urls:
+    - https://charts.lucidworks.com/classic-rest-service-1.4.7.tgz
+    version: 1.4.7
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:11.73016383Z"
+    description: Lucidworks Fusion Connectors Service (classic)
+    digest: 1144356182d4059db083bab42b05c3774ae3e74875347948043b057b4fef9024
+    keywords:
+    - fusion
+    - connectors
+    - classic
+    - v1
+    maintainers:
+    - email: matt.mitchell@lucidworks.com
+      name: Matt Mitchell
+    - email: cesar.vera-bernal@lucidworks.com
+      name: Cesar Vera-Bernal
+    - email: christopher.bareja@lucidworks.com
+      name: Krzysztof Bareja
+    name: classic-rest-service
+    urls:
+    - https://charts.lucidworks.com/classic-rest-service-1.4.5.tgz
+    version: 1.4.5
+  cx-api:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-11-05T14:13:22.191854944Z"
+    description: A helm chart to install the api component of dxos
+    digest: 37f79e9b4c8d2f4d7a060ddc59ff5a4001e96001cbdb0c4d35c0fcdeca518f47
+    keywords:
+    - cx
+    - cx-api
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: cx-api
+    urls:
+    - https://charts.lucidworks.com/cx-api-1.0.8.tgz
+    version: 1.0.8
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-09-10T22:53:13.335126975Z"
+    description: A helm chart to install the api component of dxos
+    digest: 443d40ce9f3d5e9d8c00051a788b3dd8c8a274865994cc52343ea536332d2f12
+    keywords:
+    - cx
+    - cx-api
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: cx-api
+    urls:
+    - https://charts.lucidworks.com/cx-api-1.0.6.tgz
+    version: 1.0.6
+  cx-scheduler:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-11-05T14:13:23.514330884Z"
+    description: A helm chart to install the scheduler component of dxos
+    digest: 0df948451b835a9a865b3a479ccac4a3460d19c1c42533e3d1f4eb0c7771f9c9
+    keywords:
+    - cx
+    - cx-scheduler
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: cx-scheduler
+    urls:
+    - https://charts.lucidworks.com/cx-scheduler-1.0.8.tgz
+    version: 1.0.8
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-09-10T22:53:14.814522339Z"
+    description: A helm chart to install the scheduler component of dxos
+    digest: 9791408e21a78bb55990b2217347511a4e347fb6686f9bce8e3a299bdbe9cac3
+    keywords:
+    - cx
+    - cx-scheduler
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: cx-scheduler
+    urls:
+    - https://charts.lucidworks.com/cx-scheduler-1.0.6.tgz
+    version: 1.0.6
+  cx-script-executor:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-11-05T14:13:24.854070131Z"
+    description: A helm chart to install the script executor component of dxos
+    digest: 3cb4ebdddaaf78e1d265ef9363fcb47c15a93bce425445dcc73e3016b11d450f
+    keywords:
+    - cx
+    - cx-script-executor
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: cx-script-executor
+    urls:
+    - https://charts.lucidworks.com/cx-script-executor-1.0.8.tgz
+    version: 1.0.8
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-09-10T22:53:16.435076636Z"
+    description: A helm chart to install the script executor component of dxos
+    digest: 02a9e4c3bcb3354c969bbce08e42659b2f0c22e648276380d97c571cdaea56a6
+    keywords:
+    - cx
+    - cx-script-executor
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: cx-script-executor
+    urls:
+    - https://charts.lucidworks.com/cx-script-executor-1.0.6.tgz
+    version: 1.0.6
+  cx-ui:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-11-05T14:13:26.179861926Z"
+    description: A helm chart to install the ui components of dxos
+    digest: 81bbd7d33efcf57bf527de5edd8fb8ab335a50001acbe4dca977cc1ee8dcd607
+    keywords:
+    - cx
+    - fusion
+    - cx-ui
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: cx-ui
+    urls:
+    - https://charts.lucidworks.com/cx-ui-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-09-10T22:53:18.205281169Z"
+    description: A helm chart to install the ui components of dxos
+    digest: 814859b65784a64990d6c9aea0db138a6fa5440c91d4fa65c7abbaa3464f2c1c
+    keywords:
+    - cx
+    - fusion
+    - cx-ui
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: cx-ui
+    urls:
+    - https://charts.lucidworks.com/cx-ui-1.0.0.tgz
+    version: 1.0.0
+  cx-user-prefs:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-11-05T14:13:27.484274971Z"
+    description: A helm chart to install the user prefs component of cxos
+    digest: 325a3f846ae2616e18a8e4b42cc4e951fedddd3ac32b3624cf594265c088756f
+    keywords:
+    - cx
+    - cx-user-prefs
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: cx-user-prefs
+    urls:
+    - https://charts.lucidworks.com/cx-user-prefs-1.0.7.tgz
+    version: 1.0.7
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2019-09-10T22:53:19.824368669Z"
+    description: A helm chart to install the user prefs component of cxos
+    digest: 6693eb5c875f3b77980812bec0f1e0f9dc8fe258d8eb9b372315d12069d3b5f8
+    keywords:
+    - cx
+    - cx-user-prefs
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: cx-user-prefs
+    urls:
+    - https://charts.lucidworks.com/cx-user-prefs-1.0.5.tgz
+    version: 1.0.5
+  devops-ui:
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:22.324827028Z"
+    description: A helm chart to install the devops-ui component of fusion
+    digest: 919a9a2c2e7790580b544b8b00bc4eef6b7f47adfe151afa0a9c8b285db8aeb5
+    keywords:
+    - fusion
+    - devops-ui
+    - devops
+    maintainers:
+    - email: dmitriy.lyner@lucidworks.com
+      name: Dmitriy Lyner
+    - email: graham.holt@lucidworks.com
+      name: Graham Holt
+    name: devops-ui
+    urls:
+    - https://charts.lucidworks.com/devops-ui-1.0.5.tgz
+    version: 1.0.5
+  fusion:
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-12-18T22:19:42.070979947Z"
+    description: Lucidworks fusion
+    digest: 15b9e3e1936d9f153c908c30926193f7945b644662f820b04739869285fb48b3
+    keywords:
+    - fusion
+    - lucidworks
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: ian.thebridge
+    name: fusion
+    urls:
+    - https://charts.lucidworks.com/fusion-5.0.2.tgz
+    version: 5.0.2
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-11-12T11:03:46.321642144Z"
+    description: Lucidworks fusion
+    digest: 2dceca05cffc612b07032f7b53d2b9ddfe67aa550fa9b7cba46af31f625ae1da
+    keywords:
+    - fusion
+    - lucidworks
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: ian.thebridge
+    name: fusion
+    urls:
+    - https://charts.lucidworks.com/fusion-5.0.2-7.tgz
+    version: 5.0.2-7
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-11-07T19:51:55.11014558Z"
+    description: Lucidworks fusion
+    digest: b7721b3899d34184ef764c291c03690b86a566be7598d849a6a0164a2b03486a
+    keywords:
+    - fusion
+    - lucidworks
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: ian.thebridge
+    name: fusion
+    urls:
+    - https://charts.lucidworks.com/fusion-5.0.2-6.tgz
+    version: 5.0.2-6
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-11-05T14:18:03.615270907Z"
+    description: Lucidworks fusion
+    digest: 8a9a5db45b43bce9f626ecfb842d102e15a4a7f8f817a4166b9c05f2fd4ff929
+    keywords:
+    - fusion
+    - lucidworks
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: ian.thebridge
+    name: fusion
+    urls:
+    - https://charts.lucidworks.com/fusion-5.0.2-5.tgz
+    version: 5.0.2-5
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-31T10:30:57.16126547Z"
+    description: Lucidworks fusion
+    digest: 8f4adb12a6cf0fa32c084c6ad9466a306c6e81a0504d7ee52bb00ca95986a59e
+    keywords:
+    - fusion
+    - lucidworks
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: ian.thebridge
+    name: fusion
+    urls:
+    - https://charts.lucidworks.com/fusion-5.0.2-4.tgz
+    version: 5.0.2-4
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-21T07:53:27.656162028Z"
+    description: Lucidworks fusion
+    digest: 304e487f4ff940bbae32d1f5c2d5c24d5fef41a8b98a58385c29989a5c7b753a
+    keywords:
+    - fusion
+    - lucidworks
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: ian.thebridge
+    name: fusion
+    urls:
+    - https://charts.lucidworks.com/fusion-5.0.2-3.tgz
+    version: 5.0.2-3
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-18T15:24:27.761374472Z"
+    description: Lucidworks fusion
+    digest: 560410aca8e946a81c084d43430af6172c83c1aeb94df0de37755f5a0a041f22
+    keywords:
+    - fusion
+    - lucidworks
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: ian.thebridge
+    name: fusion
+    urls:
+    - https://charts.lucidworks.com/fusion-5.0.2-2.tgz
+    version: 5.0.2-2
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:34:54.663900883Z"
+    description: Lucidworks fusion
+    digest: d0a0b9c7dd55625d7d4c196a39f3f2dc272ea90301b703dbccff6d398214d9fa
+    keywords:
+    - fusion
+    - lucidworks
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: ian.thebridge
+    name: fusion
+    urls:
+    - https://charts.lucidworks.com/fusion-5.0.1.tgz
+    version: 5.0.1
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-11T09:16:38.432880614Z"
+    description: Lucidworks fusion
+    digest: 1bd6621e94e878c118086cc3bbd0ca841e8299e621092986e69bba1029d3f9d0
+    keywords:
+    - fusion
+    - lucidworks
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: ian.thebridge
+    name: fusion
+    urls:
+    - https://charts.lucidworks.com/fusion-5.0.0.tgz
+    version: 5.0.0
+  fusion-admin:
+  - apiVersion: v1
+    appVersion: 5.1.0
+    created: "2019-12-18T22:05:00.032462604Z"
+    description: Helm Chart to deploy fusion-admin service in Kubernetes
+    digest: c9e60473a7aee3cde65f1b4ce3b3a481c3734fded218fd828e229ba7007203be
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: fusion-admin
+    urls:
+    - https://charts.lucidworks.com/fusion-admin-1.1.13.tgz
+    version: 1.1.13
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:22:20.565868552Z"
+    description: Helm Chart to deploy fusion-admin service in Kubernetes
+    digest: bca713838ae839543b8ff1639e2d261ff55bf2303566845f55f21db6c6644bdb
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: fusion-admin
+    urls:
+    - https://charts.lucidworks.com/fusion-admin-1.0.16.tgz
+    version: 1.0.16
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:23.827423652Z"
+    description: Helm Chart to deploy fusion-admin service in Kubernetes
+    digest: 3faab59694d64ac9abf13128ed1eadb8ac254cf78ac0423f5b4c73c9a49c5116
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: fusion-admin
+    urls:
+    - https://charts.lucidworks.com/fusion-admin-1.0.7.tgz
+    version: 1.0.7
+  fusion-indexing:
+  - apiVersion: v1
+    appVersion: 5.1.0
+    created: "2019-12-18T22:05:01.153113822Z"
+    description: A Helm chart to install the Spring-based fusion-indexing service
+    digest: e2a6af2f998ba80a6a066990a06b1c2e898e4fec0d0b5cc16fe273c6244f1437
+    keywords:
+    - fusion
+    - indexing
+    - index
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: fusion-indexing
+    urls:
+    - https://charts.lucidworks.com/fusion-indexing-2.0.5.tgz
+    version: 2.0.5
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:22:21.718745544Z"
+    description: Helm Chart to deploy fusion-indexing service in Kubernetes
+    digest: 416ca77a7d673fcc1fca199a8af44df55043f60831ebfbd65fd542cf45da1573
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: fusion-indexing
+    urls:
+    - https://charts.lucidworks.com/fusion-indexing-1.0.16.tgz
+    version: 1.0.16
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:25.459505308Z"
+    description: Helm Chart to deploy fusion-indexing service in Kubernetes
+    digest: bf7b931cdd57462cacd77d06e41e96a0f0bdcb8bb2a7a956ddb0cc23e0f6f694
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: fusion-indexing
+    urls:
+    - https://charts.lucidworks.com/fusion-indexing-1.0.8.tgz
+    version: 1.0.8
+  fusion-jupyter:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-12-18T22:05:02.295691827Z"
+    description: A Helm chart for Kubernetes
+    digest: a725aa109b473acbd495f12f2a00f92c069620020113dd3f1fde8d233ea7bb6d
+    name: fusion-jupyter
+    urls:
+    - https://charts.lucidworks.com/fusion-jupyter-0.1.7.tgz
+    version: 0.1.7
+  fusion-resources:
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-12-18T22:05:03.489997268Z"
+    description: A helm chart to install the shared resources for fusion
+    digest: ecf9bdb1b020f7f006ed7536d1ac466eaf9b17175b293d686b155512b0aca154
+    keywords:
+    - fusion
+    - fusion-resources
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: fusion-resources
+    urls:
+    - https://charts.lucidworks.com/fusion-resources-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:26.946367901Z"
+    description: A helm chart to install the shared resources for fusion
+    digest: 1e2c20228ef6756c0d8a22f39f15ae4beeac558f177fc72efa48f19827a86ec9
+    keywords:
+    - fusion
+    - fusion-resources
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: fusion-resources
+    urls:
+    - https://charts.lucidworks.com/fusion-resources-1.0.0.tgz
+    version: 1.0.0
+  insights:
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:28.611345363Z"
+    description: A Helm chart to install App Insights
+    digest: f7b3bc376b21cbe96a2a687013494ea53e9c0e3efec550db827b50251253e5e5
+    keywords:
+    - fusion
+    - insights
+    - app insights
+    - appkit
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: insights
+    urls:
+    - https://charts.lucidworks.com/insights-1.0.5.tgz
+    version: 1.0.5
+  job-launcher:
+  - apiVersion: v1
+    appVersion: 5.1.0
+    created: "2019-12-18T22:05:05.684720745Z"
+    description: A helm chart to install the job launcher component
+    digest: 716532c2c169d0a4a3dac57ca0b6cc7609ccdebfb6a26a6bad1739ed9b33842d
+    keywords:
+    - fusion
+    - job-launcher
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: job-launcher
+    urls:
+    - https://charts.lucidworks.com/job-launcher-1.1.10.tgz
+    version: 1.1.10
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:22:25.269198643Z"
+    description: A helm chart to install the job launcher component
+    digest: 0c06fe5bda464048f811ac91ad414e39ebc107259d6e90c7dc6279fbcbcb651d
+    keywords:
+    - fusion
+    - job-launcher
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: job-launcher
+    urls:
+    - https://charts.lucidworks.com/job-launcher-1.0.37.tgz
+    version: 1.0.37
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:30.269308567Z"
+    description: A helm chart to install the job launcher component
+    digest: 10d045c70612e9d61ddace99bab45e26c3489e8ad45bc45e291d0ab9921098f3
+    keywords:
+    - fusion
+    - job-launcher
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: job-launcher
+    urls:
+    - https://charts.lucidworks.com/job-launcher-1.0.34.tgz
+    version: 1.0.34
+  job-rest-server:
+  - apiVersion: v1
+    appVersion: 5.1.0
+    created: "2019-12-18T22:05:06.963023694Z"
+    description: A helm chart to install the job rest server component
+    digest: bc5a814c638f84a1e4145ed0174a8f744be2aa48f27166bc0d064c32eabc2056
+    keywords:
+    - fusion
+    - job-rest-server
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: job-rest-server
+    urls:
+    - https://charts.lucidworks.com/job-rest-server-1.1.5.tgz
+    version: 1.1.5
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:22:26.74956653Z"
+    description: A helm chart to install the job rest server component
+    digest: c58374bf1af4b157dbdb7007ce3493c7c06c2e1a4f783e5973957a7d7aed1c6b
+    keywords:
+    - fusion
+    - job-rest-server
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: job-rest-server
+    urls:
+    - https://charts.lucidworks.com/job-rest-server-1.0.27.tgz
+    version: 1.0.27
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:31.769515746Z"
+    description: A helm chart to install the job rest server component
+    digest: cdcccc5f5812713bf2211553515b56121f20e071836a40d473b7c3142a13f873
+    keywords:
+    - fusion
+    - job-rest-server
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: job-rest-server
+    urls:
+    - https://charts.lucidworks.com/job-rest-server-1.0.24.tgz
+    version: 1.0.24
+  kafka:
+  - apiVersion: v1
+    appVersion: 5.0.1
+    created: "2019-09-10T22:53:33.270610429Z"
+    description: Apache Kafka is publish-subscribe messaging rethought as a distributed
+      commit log.
+    digest: 402197a43c8af7ee0838b945ee57ad2048a209992081a6ef5e595fad8bb0c93d
+    home: https://kafka.apache.org/
+    icon: https://kafka.apache.org/images/logo.png
+    keywords:
+    - kafka
+    - zookeeper
+    - kafka statefulset
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: ian.thebridge
+    name: kafka
+    urls:
+    - https://charts.lucidworks.com/kafka-0.0.1.tgz
+    version: 0.0.1
+  logstash:
+  - apiVersion: v1
+    appVersion: 7.1.1
+    created: "2019-12-18T22:05:08.249297632Z"
+    description: Custom Logstash Helm Chart (forked from Elastic Helm Chart 2.2.0)
+    digest: 1f8fb66718ab304f5d6ff7899dc702d4d7e14f0f2b472ab6de07689df6e91425
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    urls:
+    - https://charts.lucidworks.com/logstash-1.0.14.tgz
+    version: 1.0.14
+  - apiVersion: v1
+    appVersion: 7.1.1
+    created: "2019-10-10T21:22:29.037151083Z"
+    description: Custom Logstash Helm Chart (forked from Elastic Helm Chart 2.2.0)
+    digest: 7ca1d3c39be0d50210ca76979ee40bd28affc02e30b9a95937481263089fe3af
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    urls:
+    - https://charts.lucidworks.com/logstash-1.0.13.tgz
+    version: 1.0.13
+  - apiVersion: v1
+    appVersion: 7.1.1
+    created: "2019-09-10T22:53:34.735305758Z"
+    description: Custom Logstash Helm Chart (forked from Elastic Helm Chart 2.2.0)
+    digest: bc01ce69566a08489852c482f31abb1316a91216c14802a15a83612dd0d47064
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: logstash
+    sources:
+    - https://www.docker.elastic.co
+    urls:
+    - https://charts.lucidworks.com/logstash-1.0.5.tgz
+    version: 1.0.5
+  ml-model-service:
+  - apiVersion: v1
+    appVersion: 5.1.0
+    created: "2019-12-18T22:05:09.495912102Z"
+    description: A helm chart to install the ml-model-service component
+    digest: eac29a448d7750e836131c29ea71c124daf071aca583664bf612fcd326e314a0
+    keywords:
+    - fusion
+    - ml-model-service
+    maintainers:
+    - email: tim.potter@lucidworks.com
+      name: Timothy Potter
+    name: ml-model-service
+    urls:
+    - https://charts.lucidworks.com/ml-model-service-1.2.2.tgz
+    version: 1.2.2
+  - apiVersion: v1
+    appVersion: 5.1.0
+    created: "2019-11-07T19:46:43.139369682Z"
+    description: A helm chart to install the ml-model-service component
+    digest: 0ff5e608b566e0103f4e39055b97f3484dce2b2a96372a93b895cdc39b18ed1a
+    keywords:
+    - fusion
+    - ml-model-service
+    maintainers:
+    - email: tim.potter@lucidworks.com
+      name: Timothy Potter
+    name: ml-model-service
+    urls:
+    - https://charts.lucidworks.com/ml-model-service-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:36.359706624Z"
+    description: A helm chart to install the ml-model-service component
+    digest: 57561b4b1a06e6fcbbcd5c8b5246623749374953ba1ac6e2cf17310871447aaf
+    keywords:
+    - fusion
+    - ml-model-service
+    maintainers:
+    - email: tim.potter@lucidworks.com
+      name: Timothy Potter
+    name: ml-model-service
+    urls:
+    - https://charts.lucidworks.com/ml-model-service-1.0.13.tgz
+    version: 1.0.13
+  pm-ui:
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-12-18T22:05:10.623111782Z"
+    description: A helm chart to install the pm-ui component
+    digest: 1a58dfd0c4953062c3b1628838d544201034458333b828a94dbd678aa6595ab7
+    keywords:
+    - fusion
+    - pm-ui
+    - pm
+    maintainers:
+    - email: dmitriy.lyner@lucidworks.com
+      name: Dmitriy Lyner
+    - email: yuwen.fang@lucidworks.com
+      name: Yuwen Fang
+    name: pm-ui
+    urls:
+    - https://charts.lucidworks.com/pm-ui-1.0.5.tgz
+    version: 1.0.5
+  query-pipeline:
+  - apiVersion: v1
+    appVersion: 5.1.0
+    created: "2019-12-18T22:05:11.869683312Z"
+    description: A helm chart to install the query-pipeline component
+    digest: cd3adff7984a605f4b6f4f137495a5d65397f9de8c26d88cbeda9e76a9fbf2ab
+    keywords:
+    - fusion
+    - query-pipeline
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    - email: tim.potter@lucidworks.com
+      name: Timothy Potter
+    name: query-pipeline
+    urls:
+    - https://charts.lucidworks.com/query-pipeline-1.1.6.tgz
+    version: 1.1.6
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:22:31.38425499Z"
+    description: A helm chart to install the query-pipeline component
+    digest: dfd41bb037cbfc03054e66734c69bdb091bf6bc51fdc09e9b238341e9c790394
+    keywords:
+    - fusion
+    - query-pipeline
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    - email: tim.potter@lucidworks.com
+      name: Timothy Potter
+    name: query-pipeline
+    urls:
+    - https://charts.lucidworks.com/query-pipeline-1.0.29.tgz
+    version: 1.0.29
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:37.887949376Z"
+    description: A helm chart to install the query-pipeline component
+    digest: 9a7d3ea741baf14d4a9a17abd814ccca30a75c291ec9f21a11955063283a01a4
+    keywords:
+    - fusion
+    - query-pipeline
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    - email: tim.potter@lucidworks.com
+      name: Timothy Potter
+    name: query-pipeline
+    urls:
+    - https://charts.lucidworks.com/query-pipeline-1.0.24.tgz
+    version: 1.0.24
+  rest-service:
+  - apiVersion: v1
+    appVersion: 5.0.2
+    created: "2019-12-18T22:05:13.082711705Z"
+    description: Lucidworks Fusion Connectors Service
+    digest: 59d1fea6bb776fbb1ec70c68c91b15d6a9352174dcfaff20e1da9da57438597c
+    keywords:
+    - fusion
+    - connectors
+    - v2
+    - rest
+    maintainers:
+    - email: matt.mitchell@lucidworks.com
+      name: Matt Mitchell
+    - email: cesar.vera-bernal@lucidworks.com
+      name: Cesar Vera-Bernal
+    - email: christopher.bareja@lucidworks.com
+      name: Krzysztof Bareja
+    name: rest-service
+    urls:
+    - https://charts.lucidworks.com/rest-service-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:22:32.5561609Z"
+    description: Lucidworks Fusion Connectors Service
+    digest: c44fcfc3a55332a64e31cea38d3e5c495f692c7cc934eed52c0ad8b2dbdfebe4
+    keywords:
+    - fusion
+    - connectors
+    - v2
+    - rest
+    maintainers:
+    - email: matt.mitchell@lucidworks.com
+      name: Matt Mitchell
+    - email: cesar.vera-bernal@lucidworks.com
+      name: Cesar Vera-Bernal
+    - email: christopher.bareja@lucidworks.com
+      name: Krzysztof Bareja
+    name: rest-service
+    urls:
+    - https://charts.lucidworks.com/rest-service-1.1.7.tgz
+    version: 1.1.7
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:39.388864112Z"
+    description: Lucidworks Fusion Connectors Service
+    digest: 4416a0654cf559a5fa9b3c0bd25753e153e23d665d3a7a2007f40a065b1fc046
+    keywords:
+    - fusion
+    - connectors
+    - v2
+    - rest
+    maintainers:
+    - email: matt.mitchell@lucidworks.com
+      name: Matt Mitchell
+    - email: cesar.vera-bernal@lucidworks.com
+      name: Cesar Vera-Bernal
+    - email: christopher.bareja@lucidworks.com
+      name: Krzysztof Bareja
+    name: rest-service
+    urls:
+    - https://charts.lucidworks.com/rest-service-1.1.5.tgz
+    version: 1.1.5
+  rpc-service:
+  - apiVersion: v1
+    appVersion: 5.0.2
+    created: "2019-12-18T22:05:14.280429563Z"
+    description: Lucidworks Fusion Connectors Service (rpc)
+    digest: 1e47b5954267dc1a80421b297d5ab2ff2363eb5b80827e5be4dd6e89aa12fc51
+    keywords:
+    - fusion
+    - connectors
+    - rpc
+    - v2
+    maintainers:
+    - email: matt.mitchell@lucidworks.com
+      name: Matt Mitchell
+    - email: cesar.vera-bernal@lucidworks.com
+      name: Cesar Vera-Bernal
+    - email: christopher.bareja@lucidworks.com
+      name: Krzysztof Bareja
+    name: rpc-service
+    urls:
+    - https://charts.lucidworks.com/rpc-service-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:22:33.900951223Z"
+    description: Lucidworks Fusion Connectors Service (rpc)
+    digest: d7aee9afc32bc2d832463584dd9615fbdad8eb8a5cdb77a3bdf55725f8f74c05
+    keywords:
+    - fusion
+    - connectors
+    - rpc
+    - v2
+    maintainers:
+    - email: matt.mitchell@lucidworks.com
+      name: Matt Mitchell
+    - email: cesar.vera-bernal@lucidworks.com
+      name: Cesar Vera-Bernal
+    - email: christopher.bareja@lucidworks.com
+      name: Krzysztof Bareja
+    name: rpc-service
+    urls:
+    - https://charts.lucidworks.com/rpc-service-1.1.12.tgz
+    version: 1.1.12
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:40.858990416Z"
+    description: Lucidworks Fusion Connectors Service (rpc)
+    digest: aeb242f2166ce0217c283956fad5a6f6c0aee689d79829e426a6f9fbad4e9a0f
+    keywords:
+    - fusion
+    - connectors
+    - rpc
+    - v2
+    maintainers:
+    - email: matt.mitchell@lucidworks.com
+      name: Matt Mitchell
+    - email: cesar.vera-bernal@lucidworks.com
+      name: Cesar Vera-Bernal
+    - email: christopher.bareja@lucidworks.com
+      name: Krzysztof Bareja
+    name: rpc-service
+    urls:
+    - https://charts.lucidworks.com/rpc-service-1.1.10.tgz
+    version: 1.1.10
+  rules-ui:
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-12-18T22:05:15.430425917Z"
+    description: A helm chart to install the rules-ui component
+    digest: 909628b24a2ec264932b62e0574e3720006a0d9dc707587ec45575cdc121b980
+    keywords:
+    - fusion
+    - rules-ui
+    - rules
+    maintainers:
+    - email: dmitriy.lyner@lucidworks.com
+      name: Dmitriy Lyner
+    - email: graham.holt@lucidworks.com
+      name: Graham Holt
+    name: rules-ui
+    urls:
+    - https://charts.lucidworks.com/rules-ui-1.0.6.tgz
+    version: 1.0.6
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:42.392059147Z"
+    description: A helm chart to install the rules-ui component
+    digest: 48a97d5611f95e714c98a5d2d12a733ec38e2bd98d5bbc883dc74710e37615e8
+    keywords:
+    - fusion
+    - rules-ui
+    - rules
+    maintainers:
+    - email: dmitriy.lyner@lucidworks.com
+      name: Dmitriy Lyner
+    - email: graham.holt@lucidworks.com
+      name: Graham Holt
+    name: rules-ui
+    urls:
+    - https://charts.lucidworks.com/rules-ui-1.0.3.tgz
+    version: 1.0.3
   solr:
   - apiVersion: v1
     appVersion: 8.3.1
-    created: "2019-12-19T07:07:27.177115-05:00"
-    dependencies:
-    - name: zookeeper
-      repository: https://kubernetes-charts-incubator.storage.googleapis.com/
-      version: 1.2.2
+    created: "2019-12-18T22:05:16.631864865Z"
     description: A helm chart to install apache solr
-    digest: 7a5f71e59457b09772fc5fba7ab974ae0266120948811686f1c2d0d1eaafb4f6
+    digest: a277e0d7a7ec0da3276c26aebc6f288e3a06f4be76fdbbaa2ff37b62c5e3d9f8
     home: http://lucene.apache.org/solr/
     keywords:
-    - odn-solr
+    - solr
     maintainers:
     - email: giovanni.v@outdoornetwork.com
       name: Giovanni Valentin
@@ -20,4 +1094,103 @@ entries:
     urls:
     - solr-2.0.4.tgz
     version: 2.0.4
+  sql-service:
+  - apiVersion: v1
+    appVersion: 5.1.0
+    created: "2019-12-18T22:05:17.903715044Z"
+    description: A helm chart to install the sql service component
+    digest: 693fd46788f400489bbc116b39abc0930b17dbc1256ad22bcdefb3c27d4cc8c3
+    keywords:
+    - fusion
+    - sql-service
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: sql-service
+    urls:
+    - https://charts.lucidworks.com/sql-service-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:45.503401616Z"
+    description: A helm chart to install the sql service component
+    digest: 637da18bc9aa8aedc41b4677f6cfc9997316dab1baf25c4f988abd22001346ec
+    keywords:
+    - fusion
+    - sql-service
+    maintainers:
+    - email: ian.thebridge@lucidworks.com
+      name: Ian Thebridge
+    name: sql-service
+    urls:
+    - https://charts.lucidworks.com/sql-service-1.0.23.tgz
+    version: 1.0.23
+  webapps:
+  - apiVersion: v1
+    appVersion: 5.1.0
+    created: "2019-12-18T22:05:19.141039506Z"
+    description: A helm chart to install the webapps component
+    digest: 23884a465bc1459370aaf9778f53c04678ce9a62f2337be04fe47d6a0928f6f2
+    keywords:
+    - fusion
+    - webapps
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: webapps
+    urls:
+    - https://charts.lucidworks.com/webapps-1.1.2.tgz
+    version: 1.1.2
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-10-10T21:22:37.798196449Z"
+    description: A helm chart to install the webapps component
+    digest: ddef688f6040eb8f97fedf03eb19d1e3ef9f96b2c6140ea55e6f9d5644b8cee9
+    keywords:
+    - fusion
+    - webapps
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: webapps
+    urls:
+    - https://charts.lucidworks.com/webapps-1.0.11.tgz
+    version: 1.0.11
+  - apiVersion: v1
+    appVersion: 5.0.0
+    created: "2019-09-10T22:53:47.117973222Z"
+    description: A helm chart to install the webapps component
+    digest: 9160ff021ce74284744fd1169b81d0c09c8b63bf9b50b1a8ca2dfaf9ba27222d
+    keywords:
+    - fusion
+    - webapps
+    maintainers:
+    - email: alexander.kanarsky@lucidworks.com
+      name: Alexander Kanarsky
+    name: webapps
+    urls:
+    - https://charts.lucidworks.com/webapps-1.0.9.tgz
+    version: 1.0.9
+  zookeeper:
+  - apiVersion: v1
+    appVersion: 3.5.5
+    created: "2019-12-18T22:05:20.370840646Z"
+    description: Centralized service for maintaining configuration information, naming,
+      providing distributed synchronization, and providing group services.
+    digest: 4908d8884a34774b6700ca65a848beadc12d38d9039ed5e580161733409c6d1a
+    home: https://zookeeper.apache.org/
+    icon: https://zookeeper.apache.org/images/zookeeper_small.gif
+    kubeVersion: ^1.10.0-0
+    maintainers:
+    - email: lachlan.evenson@microsoft.com
+      name: lachie83
+    - email: owensk@google.com
+      name: kow3ns
+    name: zookeeper
+    sources:
+    - https://github.com/apache/zookeeper
+    - https://github.com/kubernetes/contrib/tree/master/statefulsets/zookeeper
+    urls:
+    - https://charts.lucidworks.com/zookeeper-2.1.4.tgz
+    version: 2.1.4
 generated: "2019-12-19T07:07:27.168681-05:00"
