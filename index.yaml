@@ -3,7 +3,7 @@ entries:
   solr:
   - apiVersion: v1
     appVersion: 8.3.1
-    created: "2019-12-19T07:07:27.177115-05:00"
+    created: "2019-12-19T09:04:00.258318-05:00"
     dependencies:
     - name: zookeeper
       repository: https://kubernetes-charts-incubator.storage.googleapis.com/
@@ -12,8 +12,7 @@ entries:
     digest: 7a5f71e59457b09772fc5fba7ab974ae0266120948811686f1c2d0d1eaafb4f6
     home: http://lucene.apache.org/solr/
     keywords:
-    - solr
-    - odn
+    - odn-solr
     maintainers:
     - email: giovanni.v@outdoornetwork.com
       name: Giovanni Valentin
@@ -21,4 +20,4 @@ entries:
     urls:
     - solr-2.2.2.tgz
     version: 2.2.2
-generated: "2019-12-19T07:07:27.168681-05:00"
+generated: "2019-12-19T09:04:00.250044-05:00"
