@@ -1,0 +1,1254 @@
+1000 mud pro
+1000 mule
+1000 xt
+135 exciter
+150-s32-2
+190 fsh
+2010 mule
+2020 mule
+2030 mule
+212 limited
+212ss
+212x
+220 exciter
+232 limited
+242 limited
+242 limited s
+242x
+242x e series
+2500 mule
+250x
+2510 diesel mule
+2510 mule
+2520 mule
+270 exciter
+300 dvx
+3000 mule
+300x
+3010 diesel mule
+3010 mule
+3010 trans mule
+3020 mule
+3d models
+4-zinger
+400 cr
+400 mule
+4000 mule
+4010 diesel mule
+4010 mule
+4010 trans mule
+450 efi
+454 beacat
+50 a
+500 carb
+500 efi
+500 mule
+50m12
+50m15
+50m15d
+520 mule
+55-m31
+550 mule
+600 le
+600 mule
+610 mule
+700 mud pro
+700 tbx
+760 wave blaster
+760 wave raider
+760 wave venture
+80k
+90 dvx
+a1 samurai
+a100
+a7
+a7 avenger
+ac50
+ace
+adventure
+adventurer
+africa twin
+alt125
+alt185
+alt50
+alterra
+an110
+an112
+apache
+apex
+ar
+ar190
+ar192
+ar195
+ar210
+ar230
+ar240
+ar50
+ar80
+as2
+as50
+ascot
+assault
+at1
+at2
+at3
+atc
+atp
+attack
+backcountry
+badger
+bandit
+banshee
+bayou
+bearcat
+big bear
+big boss
+big red
+big ruckus
+big wheel
+blaster
+blazer
+bravo
+breeze
+bruin
+brute force
+brutus
+burgman
+c109r boulevard
+c2ss
+c2tr
+c3
+c50 boulevard
+c90 boulevard
+c90b boulevard
+c90t boulevard
+ca100
+ca102
+ca105
+ca110
+ca160
+ca175
+ca200
+ca72
+ca77
+ca95
+cb models
+cb-1
+cb100
+cb1000
+cb1000r
+cb1100
+cb125
+cb160
+cb175
+cb200
+cb300
+cb350
+cb360
+cb400
+cb450
+cb50
+cb500
+cb500x
+cb550
+cb600
+cb650
+cb750
+cb750f
+cb77
+cb900
+cb92
+cbr models
+cbr1000
+cbr1000f
+cbr1000r
+cbr1100
+cbr250
+cbr300
+cbr500
+cbr600
+cbr600f
+cbr600r
+cbr600rr
+cbr650
+cbr900r
+cbr900rr
+cbx  super sport
+challenger
+champ
+champion
+chappy
+cj360
+cleanfire
+cm200
+cm250
+cm400
+cm450
+cm91
+colt
+commander
+commander - w2ss
+commander - w2tt
+commuter
+concours
+contender
+cr (core)
+cr models
+cr125m
+cr125r
+cr250m
+cr250r
+cr450r
+cr480r
+cr500r
+cr60r
+cr80r
+cr85r
+crf models
+crf100f
+crf110f
+crf125f
+crf150f
+crf150r
+crf230f
+crf230l
+crf230m
+crf250l
+crf250r
+crf250x
+crf450r
+crf450x
+crf50f
+crf70f
+crf80f
+cruiser
+cs3
+cs5
+ct1
+ct2
+ct200
+ct3
+ct70
+ctx
+ctx1300
+ctx700
+cub
+cushman hauler
+cx500
+cx650
+cyclone
+defender
+diesel
+dl650
+dr
+dr-z
+dr-z110
+dr-z125
+dr-z250
+dr-z400
+dr-z70
+dr100
+dr125
+dr200
+dr250
+dr350
+dr650
+dragon
+ds
+ds 250
+ds 450
+ds 650
+ds 70
+ds 90
+ds50
+ds6
+ds7
+ds70
+ds80
+ds90
+dt1
+dt100
+dt125
+dt175
+dt2
+dt250
+dt3
+dt360
+dt400
+dt50
+dt80
+duckster
+duster
+dvx
+ec340
+ec540
+edge
+edge r-vr
+eiger
+el433
+elan
+eliminator
+elite
+enduro
+enticer
+er-6n
+er5
+ew433
+ew643
+ex
+ex500
+excel iii
+exciter
+expedition
+express
+exr
+f11
+f3 bushwhacker
+f4 sidewinder
+f5
+f5 big horn
+f50
+f6
+f7
+f8 bison
+f81
+f9
+fa50
+farmhand
+fatcat
+fazer
+fin
+fj
+fj-09
+fj1100
+fj1200
+fj600
+fjr
+fjr1300
+foreman
+forest
+formula
+forza
+fourtrax
+freedom
+freeride
+freestyle
+frontier
+fs
+fs50
+fsh
+fst
+fury
+fusion
+fx
+fx nytro
+fx-1
+fz
+fz-07
+fz-09
+fz-10
+fz1
+fz50
+fz6
+fz600
+fz6r
+fz700
+fz750
+fz8
+fzr
+g31 centurion
+g3ss
+g3tr
+g4
+g5
+g6s
+g7s
+ga550
+gah20
+gat00a
+gat40
+gat80
+gaucho
+gb500
+general
+genesis
+genesis i
+gladius
+gn125
+gn250
+gn400
+go-fer
+gold wing
+gp
+gp1200
+gp1300
+gp246
+gp292
+gp300
+gp338
+gp396
+gp433
+gp440
+gp643
+gp760
+gp800
+gpx338
+gpx433
+gpz 1100
+gpz 305
+gpz 550
+gpz 750
+grand touring
+grizzly
+grom
+gs
+gs1000
+gs1100
+gs1150
+gs250
+gs300
+gs340
+gs400
+gs425
+gs450
+gs500
+gs550
+gs650
+gs700
+gs750
+gs850
+gsx
+gsx-r
+gsx-r1000
+gsx-r1100
+gsx-r250
+gsx-r50
+gsx-r600
+gsx-r750
+gsx-s
+gsx-s1000
+gsx-s750
+gsx1100
+gsx1250
+gsx1300
+gsx600
+gsx650
+gsx750
+gt
+gt1
+gt250
+gt500
+gt80
+gti
+gtmx
+gtr
+gts
+gts1000
+gtx
+gw
+gw250
+gyro
+gz250
+h1 mach iii
+h2 mach iv
+havoc
+hawk
+hawk gt
+hawkeye
+hayabusa
+helix
+honcho
+hs1
+ht1
+hurricane
+hustler
+hx
+indy
+interceptor
+interstate
+intruder
+inviter
+iq
+it125
+it175
+it200
+it250
+jet mate
+jf650
+jog
+jr50
+jr80
+js300
+js400
+js440
+js550
+jt1
+jt2
+jt750
+kd100
+kd125
+kd175
+kd80
+kdx175
+kdx200
+kdx220
+kdx250
+kdx400
+kdx420
+kdx450
+kdx50
+kdx80
+ke100
+ke125
+ke175
+ke250
+kfx
+kfx400
+kfx450
+kfx50
+kfx700
+kfx80
+kfx90
+kh100
+kh125
+kh250
+kh400
+kh500
+kingquad
+kl600
+klr
+klr250
+klr650
+klt110
+klt160
+klt185
+klt200
+klt250
+klx
+klx110
+klx125
+klx140
+klx140l
+klx250
+klx250r
+klx300r
+klx400
+klx450
+klx650
+km100
+kodiak
+ks125
+kt250
+kv100
+kv75
+kx
+kx100
+kx125
+kx250
+kx250f
+kx400
+kx420
+kx450f
+kx500
+kx60
+kx65
+kx80
+kx85
+kz
+kz1000
+kz1100
+kz1300
+kz200
+kz250
+kz305
+kz400
+kz440
+kz550
+kz650
+kz700
+kz750
+kz900
+l5t
+lakota
+le
+le mans
+legend
+limited
+limited (ltd)
+lite
+longtrak
+lrv
+ls2
+ls2000
+lt125
+lt185
+lt2
+lt250
+lt3
+ltmx
+luh 500
+lx
+lx2000
+lx210
+lxt
+m109r boulevard
+m50 boulevard
+m90 boulevard
+m95 boulevard
+mach
+mach iv
+madura
+magna
+magnum
+majesty
+marauder
+maverick
+maxim
+mb5
+mc1
+metropolitan
+mg1
+mini
+mini cross
+mini trail 50
+mj2
+mj50
+mojave
+monkey
+montesa cota
+moped
+morphous
+moto-4
+mountain max
+mr175
+mr200
+msx
+mt
+mt1
+mt125
+mt250
+mt50
+mud pro
+mule pro
+mx
+mx100
+mx125
+mx175
+mx250
+mx360
+mx400
+mx80
+mxz
+nc700
+nc750
+nighthawk
+niken
+ninja
+nor
+ns50
+nsa700
+nsf100
+nsr50
+nt700
+nx125
+nx250
+nx650
+nytro
+octane
+odyssey
+omaha 80
+omaha trail 55
+or50
+outlander
+outlaw
+ovation
+ozark
+p50
+pacific coast
+passport
+pc50
+pcx
+pcx models
+phazer
+phoenix
+pilot
+pioneer
+pr440
+prairie
+predator
+pro
+pro 1200
+pro 500
+pro 785
+pro hauler
+pro x
+pro-r
+prospector
+prowler
+ptv
+pw
+pw50
+pw80
+qa50
+qt50
+quadmaster
+quadracer
+quadrunner
+quadsport
+quest
+quv
+r1
+r3
+r6
+r7
+race kart
+racer
+radian
+rage
+raider
+rally
+rancher
+ranger
+ranger etx
+ranger ev
+raptor
+razz
+rc213v
+rc45
+rd125
+rd200
+rd250
+rd350
+rd400
+rd60
+re5
+rebel
+rebel 350
+recon
+reflex
+renegade
+rf600
+rf900
+rhino
+rincon
+riva
+rm
+rm-z
+rm-z250
+rm-z450
+rm100
+rm125
+rm250
+rm370
+rm400
+rm465
+rm50
+rm500
+rm60
+rm65
+rm80
+rm85
+rmk
+rmx
+rmx250
+rmx450
+rmz
+roadliner
+route 66
+royal star
+rt1
+rt100
+rt180
+rt2
+rt2mx
+rt3
+rubicon
+ruckus
+rush
+rvt1000
+rvt1000r
+rx
+rx - 1
+rx warrior
+rx50
+rxl
+rxp
+rxt
+rz350
+rzr
+s1 mach i
+s2 mach ii
+s40 boulevard
+s50 boulevard
+s65 a
+s83 boulevard
+s90 a
+sabre
+sarasota
+savage
+sawtooth
+sbs
+sc500
+sc650
+scr950
+scrambler
+sebring
+seca
+serow
+sfv650
+sh150i
+shadow
+shift
+sidewinder
+sierra
+silver wing
+skandic
+sks
+sl 1050
+sl 650
+sl 700
+sl 750
+sl 780
+sl 900
+sl100
+sl125
+sl175
+sl292
+sl338
+sl350
+sl351
+sl396
+sl433
+sl70
+sl90
+slh
+slt 700
+slt 750
+slt 780
+slth
+sltx
+slx
+slx pro
+slxh
+sm292
+smax
+snoscoot
+snosport
+sp
+sp100
+sp125
+sp200
+sp250
+sp370
+sp400
+sp500
+sp600
+spectre
+spi
+sportrax
+sportsman
+sportsman etx
+sportsman mv7
+spree
+sprint
+spx
+sr
+sr viper
+sr185
+sr210
+sr230
+sr250
+sr292
+sr400
+sr433
+sr500
+sr540
+sr643
+srx
+srx120
+srx250
+srx340
+srx440
+srx600
+srx700
+ss
+ss125
+ss338
+ss396
+ss433
+ss440
+st
+st1100
+st1300
+st90
+stampede
+
+starlite
+startrak
+stateline
+stinger
+storm
+stratoliner
+stryker
+sts
+stx
+stx-f12f
+stx-f15f
+stx-r
+summit
+super hawk
+super jet
+super sherpa
+super sport
+super sport xi
+super tenere
+supertrak
+suv1200
+sv
+sv1000
+sv650
+sw396
+sw433
+swe
+switchback
+sx
+sx viper
+sx-r
+sx190
+sx192
+sx195
+sx210
+sx230
+sx240
+sx500
+sx600
+sx700
+sxi
+sxi pro
+t20
+t250
+t305
+t350
+ta125
+tbx
+tc100
+tc120
+tc125
+tc305
+td1
+td2
+td3
+tdm850
+tecate
+tempter
+tengai
+terra pro
+teryx
+thundercat
+timberwolf
+titan
+tl1000
+tl125
+tl250
+tl433
+tm250
+tm400
+tmax
+touring
+tr2
+tr3
+trail
+trail blazer
+trail boss
+trail models
+trailway
+tran sport
+traxter
+tri-moto
+tri-z
+trials
+triumph
+trv
+trx 450
+trx 700
+trx 90
+trx sport
+ts100
+ts125
+ts185
+ts250
+ts75
+tt125
+tt225
+tt250
+tt350
+tt500
+tt600
+tt90
+ttr
+ttr110
+ttr125
+ttr225
+ttr230
+ttr250
+ttr50
+ttr90
+tu
+tu250
+tundra
+turbo
+tw
+tw200
+twin peaks
+twinstar
+tx500
+tx650
+tx750
+ty175
+ty250
+ty80
+tz125
+tz250
+tz350
+ultra
+ultra 130
+ultra 150
+ultra 250x
+ultra 260lx
+ultra 260x
+ultra 300lx
+ultra 310lx
+ultra 310r
+ultra 310x
+ultra lx
+ultra300x
+utility
+utv 1500
+v-2
+v-max
+v-star
+v-strom
+v30 magna
+v45 interceptor
+v45 magna
+v45 sabre
+v65 magna
+v65 sabre
+valkyrie rune
+van van
+vanvan
+vector
+venom
+venture
+versys
+vf1000r
+vfr1200
+viking
+vino
+vinson
+viper
+virage
+virage i
+virage tx
+virage txi
+virago
+vision
+vk
+vk540
+vlx
+vn700
+voyager
+voyager xii
+voyageur
+vs1400
+vtx1300
+vtx1800
+vulcan
+vx cruiser
+vx deluxe
+vx limited
+vx/vxr/vxs
+vx800
+vxr
+vxs
+vz800
+w1
+w175
+w650
+w800
+wake
+
+wave blaster
+wave jammer
+wave raider
+wave runner
+wave runner fx ho
+wave runner fx sho
+wave runner fx140
+wave runner iii
+wave runner pro vxr
+wave venture
+waverunner
+waverunner fx
+waverunner fx cruiser
+waverunner fx cruiser ho
+waverunner fx cruiser sho
+waverunner fx cruiser svho
+waverunner fx ho
+waverunner fx sho
+waverunner fx svho
+waverunner fzr
+waverunner fzs
+waverunner lx
+waverunner v1
+waverunner vx
+waverunner vxr
+wide trak
+wildcat
+wind 125
+wolf
+wolverine
+worker
+wr
+wr200
+wr250
+wr400
+wr426
+wr450
+wr500
+ww150
+x2
+xc
+xcf
+xcr
+xi sport
+xir
+xl-v
+xl100
+xl1200
+xl125
+xl175
+xl185
+xl200
+xl250
+xl350
+xl500
+xl600
+xl70
+xl700
+xl75
+xl760
+xl80
+xl800
+xlt
+xlt1200
+xlt800
+xmax
+xpedition
+xplorer
+xpress
+xr100
+xr1800
+xr185
+xr200
+xr250
+xr250l
+xr250r
+xr350r
+xr400r
+xr500
+xr500r
+xr50r
+xr600r
+xr650l
+xr650r
+xr70r
+xr75
+xr80
+xs1
+xs1100
+xs2
+xs360
+xs400
+xs500
+xs650
+xs750
+xs850
+xsr
+xsr900
+xt
+xt125
+xt200
+xt225
+xt250
+xt350
+xt500
+xt550
+xt600
+xv
+y-12 youth
+y-6 youth
+y-zinger
+ya6
+yamahauler
+yas1
+ycs1
+yfg350
+yfm
+yfz
+yfz450
+yfz50
+yg1
+yj2
+yl1
+yl2
+yr1
+yr2
+ysr
+yxz
+yxz1000
+yz
+yz100
+yz125
+yz175
+yz250
+yz360
+yz400
+yz426
+yz450
+yz465
+yz490
+yz50
+yz60
+yz80
+yz85
+
+yzf-r
+yzf1000
+yzf600
+yzf750
+z
+z1
+z1000
+z125
+z1r
+z250
+z50r
+z650
+z750
+z800
+z900
+zb50
+zephyr
+zinger
+zn1100
+zn700
+zr
+zr7
+zr800
+zrx1100
+zrx1200
+zuma
+zxi
+zzr1200
+zzr600

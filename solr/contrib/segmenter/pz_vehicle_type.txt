@@ -1,0 +1,7 @@
+atv
+motorcycle
+power equipment
+scooters
+side-by-side
+snowmobile
+watercraft

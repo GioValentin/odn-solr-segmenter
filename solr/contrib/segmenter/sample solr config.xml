@@ -1,0 +1,124 @@
+<queryParser name="seg"
+  class="com.sematext.querysegmenter.solr.QuerySegmenterQParserPlugin">
+  <lst name="segments">
+    <lst name="vehicle_make">
+      <str name="field">vehicle_make_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.GenericSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_make_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="useBoostQuery">false</bool>
+      <bool name="required">false</bool>
+    </lst>
+    <lst name="vehicle_model">
+      <str name="field">vehicle_model_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.GenericSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_model_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="useBoostQuery">false</bool>
+      <bool name="required">false</bool>
+    </lst>
+    <lst name="vehicle_base_model">
+      <str name="field">vehicle_base_model_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.GenericSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_base_model_str.txt</str>
+      <bool name="useBoostQuery">false</bool>
+      <bool name="required">false</bool>
+    </lst>
+    <lst name="vehicle_type">
+      <str name="field">vehicle_type_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.SynonymSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_type_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="useBoostQuery">false</bool>
+      <bool name="required">false</bool>
+    </lst>
+    <lst name="vehicle_size">
+      <str name="field">vehicle_size_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.SynonymSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_size_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="useBoostQuery">false</bool>
+      <bool name="required">false</bool>
+    </lst>
+    <lst name="vehicle_year">
+      <str name="field">vehicle_year_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.SynonymSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_year_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="useBoostQuery">false</bool>
+      <bool name="required">false</bool>
+    </lst>
+  </lst>
+</queryParser>
+
+<requestHandler name="/select2" class="solr.SearchHandler">
+  <lst name="defaults">
+    <str name="echoParams">explicit</str>
+    <str name="q">{!seg defType=dismax v=$qq}</str>
+    <str name="qf">vehicle_make_s vehicle_model_s vehicle_base_model_s vehicle_type_s vehicle_year_s vehicle_size_s</str>
+  </lst>
+</requestHandler>
+  
+  
+  
+<searchComponent name="segmenter"
+  class="com.sematext.querysegmenter.solr.QuerySegmenterComponent">   
+  <lst name="segments">
+    <lst name="vehicle_make">
+      <str name="field">vehicle_make_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.GenericSegmentDictionaryMemImpl</str>
+       <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_make_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="required">true</bool>
+    </lst>
+    <lst name="vehicle_model">
+      <str name="field">vehicle_model_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.GenericSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_model_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="required">false</bool>
+    </lst>
+    <lst name="vehicle_base_model">
+      <str name="field">vehicle_base_model_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.GenericSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_base_model_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="required">true</bool>      
+    </lst>
+    <lst name="vehicle_type">
+      <str name="field">vehicle_type_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.SynonymSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_type_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="useBoostQuery">false</bool>
+      <bool name="required">true</bool>      
+    </lst>
+    <lst name="vehicle_size">
+      <str name="field">vehicle_size_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.SynonymSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_size_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="useBoostQuery">false</bool>
+      <bool name="required">true</bool>      
+    </lst>
+    <lst name="vehicle_year">
+      <str name="field">vehicle_year_s</str>
+      <str name="dictionary">com.sematext.querysegmenter.SynonymSegmentDictionaryMemImpl</str>
+      <str name="filename">${solr.install.dir:../../../..}/contrib/segmenter/vehicle_year_str.txt</str>
+      <bool name="useLatLon">false</bool>
+      <bool name="useBoostQuery">false</bool>
+      <bool name="required">true</bool>      
+    </lst>
+  </lst>
+</searchComponent>
+  
+<requestHandler name="/select" class="solr.SearchHandler">
+  <lst name="defaults">
+    <str name="defType">edismax</str>
+    <!-- Other dismax params... -->
+  </lst>
+  <arr name="first-components">
+    <str>segmenter</str>
+  </arr>
+</requestHandler>
+  
